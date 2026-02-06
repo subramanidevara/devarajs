@@ -1,0 +1,15 @@
+{
+  "event": "Hack All February",
+  "projectName": "Tambo Career Platform",
+  "participant": "Subramani Devara",
+  "github": "https://github.com/subramanidevara/tambo-career-platform",
+  "features": [
+    "Email OTP Authentication",
+    "Generative UI with Tambo",
+    "AI Recommendations (MCP)",
+    "Analytics Dashboard",
+    "Recruiter Dashboard",
+    "MongoDB Backend"
+  ],
+  "builtDuringHackathon": true
+}
